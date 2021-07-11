@@ -4,7 +4,7 @@ imutils==0.5.3
 numpy==1.18.2
 opencv-python==4.5.1.48
 matplotlib==3.2.1
-scipy==1.4.1
+scipy==1.6.2
 pygame==2.0.1
 tensorflowjs==3.7.0
 Flask==2.0.1
